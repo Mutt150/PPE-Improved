@@ -1,0 +1,6 @@
+ckpt/
+output*/
+__pycache__/
+*.pyc
+*.npy
+*.pdparams
